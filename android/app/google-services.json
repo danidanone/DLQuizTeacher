@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "168318236102",
+    "project_id": "dl-mini-kahoot",
+    "storage_bucket": "dl-mini-kahoot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168318236102:android:aea465b7d7679c90efeec7",
+        "android_client_info": {
+          "package_name": "com.dl.mini_kahoot_teacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh0TQWuJMEHIMZj-JpJsbwvZzUxSPdFtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168318236102:android:d65adebfbd959b22efeec7",
+        "android_client_info": {
+          "package_name": "com.example.minikahoot.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh0TQWuJMEHIMZj-JpJsbwvZzUxSPdFtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168318236102:android:a1d4c4f70c259ca8efeec7",
+        "android_client_info": {
+          "package_name": "com.example.minikahootdl_student"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh0TQWuJMEHIMZj-JpJsbwvZzUxSPdFtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168318236102:android:cafea76b0c989931efeec7",
+        "android_client_info": {
+          "package_name": "com.minikahootdl.student"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh0TQWuJMEHIMZj-JpJsbwvZzUxSPdFtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
